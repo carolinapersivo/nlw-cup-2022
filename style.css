@@ -25,7 +25,7 @@ li{
   list-style: none;
 }
 body{
-  background: #121214 var(--bg) no-repeat top center/cover;
+  background: #121214 var(--bg)  top center;
   font-family: 'Roboto', sans-serif;
 }
 header{
@@ -54,7 +54,7 @@ header{
   text-align: center;
   background-color: var(--card-bg-color);
   align-items: center;
-  border-bottom: 2px solid var(--card-color-primary);
+  border-bottom: 2px solid #F7DD43;
   border-radius: 6px;
   margin-bottom: 32px;
   width: 316px;
@@ -63,7 +63,7 @@ header{
   display: flex;
   gap: 16px;
   align-items: center;
-  border: 1px solid var(--card-date-color);
+  border: 1px solid #746615;
   padding: 8px 16px;
   color: #F7DD43;
   border-radius: 5px;
